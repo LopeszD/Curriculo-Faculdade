@@ -22,3 +22,34 @@ html{
 #h1color{
     color: red;
 }
+
+#contacts{
+    width: 30%;
+}
+
+#resume_prof{
+    width: 70%;
+    float: right;
+}
+
+#skills{
+    width: 70%;
+    float: right;
+}
+
+#header{
+    background-image: url(imgs/background.jpg);
+    background-position: 100%;
+    width: 310px;
+    height: 360px;
+}
+
+#lopes{
+    position: absolute;
+    left: 22px;
+    top: 22px;
+}
+
+#resume{
+    width: 20%;
+}
